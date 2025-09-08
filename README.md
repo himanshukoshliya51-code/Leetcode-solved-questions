@@ -17,8 +17,10 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
