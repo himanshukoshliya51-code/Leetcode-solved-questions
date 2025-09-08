@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
