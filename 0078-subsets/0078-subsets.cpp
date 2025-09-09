@@ -1,19 +1,25 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        int total = 1 << n; // total number of subsets = 2^n
         vector<vector<int>> res;
-
-        for (int mask = 0; mask < total; mask++) {
-            vector<int> subset;
-            for (int i = 0; i < n; i++) {
-                if (mask & (1 << i)) {
-                    subset.push_back(nums[i]);
-                }
-            }
-            res.push_back(subset);
-        }
+        vector<int> current;
+        backtrack(0, nums, current, res);
         return res;
+    }
+
+private:
+    void backtrack(int index, vector<int>& nums, vector<int>& current, vector<vector<int>>& res) {
+        if (index == nums.size()) {
+            res.push_back(current); // add current subset
+            return;
+        }
+
+        // Choice 1: include nums[index]
+        current.push_back(nums[index]);
+        backtrack(index + 1, nums, current, res);
+
+        // Choice 2: exclude nums[index] (backtrack)
+        current.pop_back();
+        backtrack(index + 1, nums, current, res);
     }
 };
