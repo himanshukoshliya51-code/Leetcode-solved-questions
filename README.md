@@ -32,4 +32,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0078-subsets) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
