@@ -11,6 +11,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String Matching
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [2050-count-good-numbers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -54,6 +56,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0090-subsets-ii) |
 ## Hash Table
@@ -61,4 +64,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
