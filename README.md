@@ -23,11 +23,13 @@
 | ------- |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -59,6 +61,7 @@
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
