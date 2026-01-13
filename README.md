@@ -25,6 +25,7 @@
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1486-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -64,6 +65,7 @@
 | [0078-subsets](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
