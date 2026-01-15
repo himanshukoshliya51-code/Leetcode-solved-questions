@@ -3,40 +3,38 @@ public:
     MinStack() {
         
     }
-    stack<int>st;
-    stack<int>st1;
-    int min = INT_MAX;
+    stack<pair<int,int>>st;
+  
+    int mini = INT_MAX;
     
     void push(int val) {
-        st.push(val);
-        if(val<min){
-            min=val;
-        }
+       mini = min(mini, val);
+    st.push({val, mini});
     }
     
     void pop() {
-        st.pop();
-        st1=st;
-        min = INT_MAX;
-        while(st1.size()){
-            int x = st1.top();
-            st1.pop();
-            if(x<min){
-                min=x;
-            }
+    if (st.empty()) return;
 
-        }
-        
+    st.pop();
+
+    if (st.empty()) {
+        mini = INT_MAX;   // reset minimum
+    } else {
+        mini = st.top().second;
     }
-    
-    int top() {
-        int x = st.top();
+}
+
+        
+        int top() {
+            if (st.empty()) return -1;
+        int x = st.top().first;
         return x;
         
     }
     
     int getMin() {
-        return min;
+        if (st.empty()) return -1;
+        return st.top().second;
 
         
     }
