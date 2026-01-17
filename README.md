@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -55,6 +57,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0204-count-primes) |
@@ -92,6 +95,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0232-implement-queue-using-stacks) |
@@ -111,6 +115,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
