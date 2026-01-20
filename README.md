@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Simulation
@@ -118,6 +119,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0232-implement-queue-using-stacks) |
@@ -159,4 +161,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
