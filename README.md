@@ -112,6 +112,7 @@
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -120,6 +121,7 @@
 | [0155-min-stack](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0402-remove-k-digits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
