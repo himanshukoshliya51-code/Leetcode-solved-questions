@@ -74,6 +74,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
 | ------- |
