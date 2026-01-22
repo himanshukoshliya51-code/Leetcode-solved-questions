@@ -75,6 +75,7 @@
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -164,6 +165,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -188,4 +190,12 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
