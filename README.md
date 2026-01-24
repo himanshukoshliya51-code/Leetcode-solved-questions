@@ -15,6 +15,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0992-subarrays-with-k-different-integers) |
