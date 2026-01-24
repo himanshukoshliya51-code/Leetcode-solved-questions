@@ -6,6 +6,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0202-happy-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [0029-divide-two-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -105,6 +107,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0992-subarrays-with-k-different-integers) |
