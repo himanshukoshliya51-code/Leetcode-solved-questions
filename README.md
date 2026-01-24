@@ -6,6 +6,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0402-remove-k-digits) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,4 +219,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0992-subarrays-with-k-different-integers) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
