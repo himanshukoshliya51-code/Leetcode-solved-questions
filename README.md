@@ -22,6 +22,7 @@
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String Matching
@@ -54,6 +55,7 @@
 | [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -146,6 +148,7 @@
 | [0402-remove-k-digits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -181,6 +184,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
