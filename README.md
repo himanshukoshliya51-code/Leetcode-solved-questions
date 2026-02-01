@@ -103,6 +103,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Bit Manipulation
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0204-count-primes) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
 |  |
 | ------- |
