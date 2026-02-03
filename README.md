@@ -288,6 +288,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -297,6 +298,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
