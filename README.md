@@ -107,6 +107,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3637-trionic-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3637-trionic-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
