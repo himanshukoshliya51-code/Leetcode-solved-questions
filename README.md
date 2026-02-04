@@ -56,6 +56,7 @@
 | [0045-jump-game-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
@@ -287,6 +288,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -298,6 +300,7 @@
 | [0100-same-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -311,6 +314,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
