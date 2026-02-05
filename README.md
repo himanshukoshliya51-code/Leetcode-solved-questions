@@ -132,6 +132,7 @@
 | [0202-happy-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -269,6 +270,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -296,6 +298,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
@@ -310,6 +313,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -326,6 +330,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -336,4 +341,5 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
