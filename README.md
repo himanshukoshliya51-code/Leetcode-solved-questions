@@ -6,6 +6,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -19,6 +20,7 @@
 | [0058-length-of-last-word](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
