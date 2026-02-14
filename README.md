@@ -38,6 +38,7 @@
 | [0029-divide-two-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
@@ -266,6 +267,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
