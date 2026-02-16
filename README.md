@@ -124,6 +124,7 @@
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1486-xor-operation-in-an-array) |
@@ -295,6 +296,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3719-longest-balanced-subarray-i) |
