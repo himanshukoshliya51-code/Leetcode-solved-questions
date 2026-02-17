@@ -3,54 +3,32 @@ public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         if (!root) return NULL;
 
-        TreeNode* parent = NULL;
-        TreeNode* node = root;
-
-       
-        while (node && node->val != key) {
-            parent = node;
-            if (key < node->val)
-                node = node->left;
-            else
-                node = node->right;
+        if (key < root->val) {
+            root->left = deleteNode(root->left, key);
         }
-
-        if (!node) return root;  // not found
-
-        // Case 1 & 2: Node has 0 or 1 child
-        if (!node->left || !node->right) {
-            TreeNode* child = node->left ? node->left : node->right;
-
-            if (!parent) {  // deleting root
-                delete node;
-                return child;
-            }
-
-            if (parent->left == node)
-                parent->left = child;
-            else
-                parent->right = child;
-
-            delete node;
+        else if (key > root->val) {
+            root->right = deleteNode(root->right, key);
         }
         else {
-            // 🔥 Case 3: Two children
-            TreeNode* successorParent = node;
-            TreeNode* successor = node->right;
+            // 🔥 Node found
 
-            while (successor->left) {
-                successorParent = successor;
-                successor = successor->left;
-            }
+            // If no left child → return right
+            if (!root->left)
+                return root->right;
 
-            node->val = successor->val;
+            // If no right child → return left
+            if (!root->right)
+                return root->left;
 
-            if (successorParent->left == successor)
-                successorParent->left = successor->right;
-            else
-                successorParent->right = successor->right;
+            // 🔥 If both children exist
+            TreeNode* temp = root->right;
 
-            delete successor;
+            // Find smallest in right subtree
+            while (temp->left)
+                temp = temp->left;
+
+            root->val = temp->val;   // Replace value
+            root->right = deleteNode(root->right, temp->val);
         }
 
         return root;
