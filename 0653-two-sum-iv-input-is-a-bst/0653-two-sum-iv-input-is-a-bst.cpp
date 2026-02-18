@@ -1,18 +1,29 @@
 class Solution {
 public:
-    bool solve(TreeNode* root, int k, unordered_set<int>& s) {
-        if(root == NULL) return false;
+    
+    void inorder(TreeNode* root, vector<int>& arr) {
+        if(root == NULL) return;
         
-        if(s.count(k - root->val)) return true;
-        
-        s.insert(root->val);
-        
-        return solve(root->left, k, s) || 
-               solve(root->right, k, s);
+        inorder(root->left, arr);
+        arr.push_back(root->val);
+        inorder(root->right, arr);
     }
     
     bool findTarget(TreeNode* root, int k) {
-        unordered_set<int> s;
-        return solve(root, k, s);
+        vector<int> arr;
+        inorder(root, arr);
+        
+        int i = 0;
+        int j = arr.size() - 1;
+        
+        while(i < j) {
+            int sum = arr[i] + arr[j];
+            
+            if(sum == k) return true;
+            else if(sum < k) i++;
+            else j--;
+        }
+        
+        return false;
     }
 };
