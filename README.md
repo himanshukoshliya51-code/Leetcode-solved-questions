@@ -67,6 +67,7 @@
 | [0435-non-overlapping-intervals](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
@@ -357,6 +358,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -382,6 +384,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -417,6 +420,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -445,6 +449,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
