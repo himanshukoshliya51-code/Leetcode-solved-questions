@@ -97,6 +97,7 @@
 | [0090-subsets-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -318,6 +319,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -339,6 +341,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -402,6 +405,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -445,6 +449,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
