@@ -1,18 +1,25 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        if(root == NULL) return 0;
+        if(!root) return 0;
 
-        // If left subtree is NULL
-        if(root->left == NULL)
-            return 1 + minDepth(root->right);
+        queue<pair<TreeNode*, int>> q;
+        q.push({root, 1});
 
-        // If right subtree is NULL
-        if(root->right == NULL)
-            return 1 + minDepth(root->left);
+        while(!q.empty()) {
+            auto [node, depth] = q.front();
+            q.pop();
 
-        // If both children exist
-        return 1 + min(minDepth(root->left), 
-                       minDepth(root->right));
+            if(!node->left && !node->right)
+                return depth;
+
+            if(node->left)
+                q.push({node->left, depth + 1});
+
+            if(node->right)
+                q.push({node->right, depth + 1});
+        }
+
+        return 0;
     }
 };
