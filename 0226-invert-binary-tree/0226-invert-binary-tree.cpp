@@ -1,14 +1,10 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        if(root == NULL) return NULL;
+        if(!root) return NULL;
 
-        // Swap left and right
-        TreeNode* temp = root->left;
-        root->left = root->right;
-        root->right = temp;
+        swap(root->left, root->right);
 
-        // Recursively invert subtrees
         invertTree(root->left);
         invertTree(root->right);
 
