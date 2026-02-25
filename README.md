@@ -67,6 +67,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -107,6 +108,7 @@
 | [0455-assign-cookies](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0860-lemonade-change) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -454,6 +457,7 @@
 | [0207-course-schedule](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0662-maximum-width-of-binary-tree) |
