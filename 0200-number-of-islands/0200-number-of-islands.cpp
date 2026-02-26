@@ -2,62 +2,50 @@ class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
         
-        set<pair<int,int>> mpp;   // changed here
-        queue<pair<int,int>> q;
+        if(grid.empty()) return 0;
         
         int n = grid.size();
         int m = grid[0].size();
-        int cnt = 0;
-
-        // Store all '1' cells
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == '1'){
-                    mpp.insert({i, j});
+        int count = 0;
+        
+        int delRow[] = {-1, 0, 1, 0};
+        int delCol[] = {0, 1, 0, -1};
+        
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                
+                if(grid[i][j] == '1') {
+                    
+                    count++;   // New island found
+                    
+                    queue<pair<int,int>> q;
+                    q.push({i, j});
+                    grid[i][j] = '0';   // mark visited
+                    
+                    while(!q.empty()) {
+                        auto node = q.front();
+                        q.pop();
+                        
+                        int r = node.first;
+                        int c = node.second;
+                        
+                        for(int k = 0; k < 4; k++) {
+                            int nrow = r + delRow[k];
+                            int ncol = c + delCol[k];
+                            
+                            if(nrow >= 0 && nrow < n &&
+                               ncol >= 0 && ncol < m &&
+                               grid[nrow][ncol] == '1') {
+                                
+                                grid[nrow][ncol] = '0'; // mark visited
+                                q.push({nrow, ncol});
+                            }
+                        }
+                    }
                 }
             }
         }
-
-        if(mpp.empty()) return 0;
-
-        auto it = mpp.begin();
-        q.push(*it);
-        mpp.erase(*it);   // remove from set
-
-        int delRow[] = {-1,0,1,0};
-        int delCol[] = {0,1,0,-1};
-
-        while(!q.empty()){
-
-            auto node = q.front();
-            q.pop();
-
-            int r = node.first;
-            int c = node.second;
-
-            for(int i = 0; i < 4; i++){
-                int nrow = r + delRow[i];
-                int ncol = c + delCol[i];
-
-                if(nrow >= 0 && nrow < n &&
-                   ncol >= 0 && ncol < m &&
-                   grid[nrow][ncol] == '1' &&
-                   mpp.count({nrow, ncol})) {
-
-                    q.push({nrow, ncol});
-                    mpp.erase({nrow, ncol});   // erase directly
-                }
-            }
-
-            // When one island BFS finishes
-            if(q.empty() && !mpp.empty()){
-                cnt++;
-                auto it = mpp.begin();
-                q.push(*it);
-                mpp.erase(*it);
-            }
-        }
-
-        return cnt + 1;  // +1 for first island
+        
+        return count;
     }
 };
