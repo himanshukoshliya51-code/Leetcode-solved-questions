@@ -122,6 +122,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -302,6 +303,7 @@
 | [0733-flood-fill](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -489,6 +491,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
