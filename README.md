@@ -33,6 +33,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## String Matching
 |  |
 | ------- |
