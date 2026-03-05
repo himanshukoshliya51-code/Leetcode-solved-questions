@@ -1,22 +1,14 @@
 class Solution {
 public:
-    int minOperations(string arr) {
-        int n = arr.size();
+    int minOperations(string s) {
+        int n = s.size();
+        int p1 = 0, p2 = 0;
 
-        int cnt0 = 0, cnt1 = 0;
-
-        // pattern starting with 0 -> "010101"
         for(int i = 0; i < n; i++){
-            if(i % 2 == 0 && arr[i] != '0') cnt0++;
-            if(i % 2 == 1 && arr[i] != '1') cnt0++;
+            if(s[i] != (i % 2 ? '1' : '0')) p1++;
+            if(s[i] != (i % 2 ? '0' : '1')) p2++;
         }
 
-        // pattern starting with 1 -> "101010"
-        for(int i = 0; i < n; i++){
-            if(i % 2 == 0 && arr[i] != '1') cnt1++;
-            if(i % 2 == 1 && arr[i] != '0') cnt1++;
-        }
-
-        return min(cnt0, cnt1);
+        return min(p1, p2);
     }
 };
