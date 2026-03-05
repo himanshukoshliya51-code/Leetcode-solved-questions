@@ -128,6 +128,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -278,6 +279,7 @@
 | [0239-sliding-window-maximum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Monotonic Queue
 |  |
@@ -309,12 +311,14 @@
 | [0994-rotting-oranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -430,6 +434,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -501,6 +506,7 @@
 | [0994-rotting-oranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -532,6 +538,7 @@
 | [0200-number-of-islands](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
