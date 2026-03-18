@@ -30,6 +30,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -117,6 +118,7 @@
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0860-lemonade-change) |
@@ -170,6 +172,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -337,6 +340,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -426,6 +430,7 @@
 | [0547-number-of-provinces](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -501,6 +506,7 @@
 | [0547-number-of-provinces](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -542,6 +548,7 @@
 | [0130-surrounded-regions](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
