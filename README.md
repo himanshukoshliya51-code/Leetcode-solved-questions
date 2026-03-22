@@ -44,6 +44,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0202-happy-number) |
@@ -66,6 +67,7 @@
 | [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
@@ -602,4 +604,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1192-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
