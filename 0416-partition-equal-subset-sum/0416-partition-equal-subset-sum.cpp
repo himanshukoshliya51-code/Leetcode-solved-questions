@@ -26,11 +26,11 @@ public:
                 bool nonpick = dp[index - 1][k];
                 bool pick = false;
 
-                if(k >= nums[index]){   // ✅ FIXED
+                if(k >= nums[index]){   
                     pick = dp[index - 1][k - nums[index]];
                 }
 
-                dp[index][k] = pick | nonpick;  // ✅ ALWAYS assign
+                dp[index][k] = pick | nonpick; 
             }
         }
 
