@@ -1,38 +1,39 @@
 class Solution {
 public:
-
-bool f(int index , int target , vector<int>& nums, vector<vector<int>>& dp){
-    if(target == 0){
-        return true;
-    }
-    if(index == 0){ 
-        return nums[0]==target;
-    }
-    if(dp[index][target] != -1){
-        return dp[index][target];
-    }
-    
-    bool nonpick = f(index-1,target,nums,dp);
-
-    bool pick = false;
-    if(target >= nums[index]){
-        pick = f(index-1,target-nums[index],nums,dp);
-    }
-
-    return dp[index][target] = nonpick | pick ;
-}
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
         int sum = 0;
-        for(int i=0;i<n;i++){
-            sum = sum + nums[i];
+
+        for(int i = 0; i < n; i++){
+            sum += nums[i];
         }
-        int target = sum/2;
-        vector<vector<int>>dp(n,vector<int>(target+1,-1));
-        if(sum%2 == 1){
-            return false;
+
+        if(sum % 2 == 1) return false;
+
+        int target = sum / 2;
+
+        vector<vector<bool>> dp(n, vector<bool>(target + 1, false));
+
+        for(int i = 0; i < n; i++){
+            dp[i][0] = true;
         }
-        return f(n-1,target,nums,dp);
-        
+
+        if(nums[0] <= target)
+            dp[0][nums[0]] = true;
+
+        for(int index = 1; index < n; index++){
+            for(int k = 1; k <= target; k++){
+                bool nonpick = dp[index - 1][k];
+                bool pick = false;
+
+                if(k >= nums[index]){   // ✅ FIXED
+                    pick = dp[index - 1][k - nums[index]];
+                }
+
+                dp[index][k] = pick | nonpick;  // ✅ ALWAYS assign
+            }
+        }
+
+        return dp[n - 1][target];
     }
 };
