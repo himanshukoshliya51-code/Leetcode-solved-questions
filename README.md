@@ -12,6 +12,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -174,6 +177,7 @@
 | [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1486-xor-operation-in-an-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -350,6 +354,7 @@
 | [0778-swim-in-rising-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -371,6 +376,7 @@
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
@@ -622,4 +628,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
