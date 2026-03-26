@@ -1,30 +1,28 @@
 class Solution {
 public:
-    int f(int node, int amount, vector<int>& coins,vector<vector<int>>& dp) {
-        if (node == 0) {
-            if (amount % coins[0] == 0)
-                return amount / coins[0];
-            return 1e9; 
-        }
-
-        if(dp[node][amount] != -1){
-            return dp[node][amount];
-        }
-
-        int nonpick = f(node - 1, amount, coins,dp);
-
-        int pick = 1e9;
-        if (coins[node] <= amount) {
-            pick = 1 + f(node, amount - coins[node], coins,dp); 
-        }
-
-        return dp[node][amount] = min(pick, nonpick);
-    }
-
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        int ans = f(n - 1, amount, coins,dp);
+        vector<vector<int>>dp(n,vector<int>(amount+1,0));
+        for(int i = 0;i<=amount;i++){
+            if (i % coins[0] == 0)
+                dp[0][i] = i / coins[0];
+                else
+            dp[0][i] =  1e9; 
+        }
+        for(int i=1;i<n;i++){
+            for(int amnt=0;amnt<=amount;amnt++){
+                 int nonpick = dp[i - 1][amnt];
+
+        int pick = 1e9;
+        if (coins[i] <= amnt) {
+            pick = 1 + dp[i][amnt - coins[i]];
+        }
+        dp[i][amnt] = min(pick,nonpick);
+
+            }
+
+        }
+        int ans = dp[n - 1][amount];
         return (ans >= 1e9) ? -1 : ans;
     }
 };
