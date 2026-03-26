@@ -82,6 +82,7 @@
 | [0322-coin-change](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
@@ -104,6 +105,7 @@
 | [0126-word-ladder-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0494-target-sum) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0518-coin-change-ii) |
