@@ -1,24 +1,40 @@
 class Solution {
 public:
-    int findTargetSumWays(vector<int>& nums, int target) {
-        int sum = 0;
-        for (int x : nums) sum += x;
+    int f(int i, int target, vector<int>& nums, vector<vector<int>>& dp, int offset) {
 
-        // Invalid cases
-        if ((sum + target) % 2 != 0 || sum < abs(target))
+        // ❗ boundary check (fixes runtime error)
+        if (target + offset < 0 || target + offset >= 2 * offset + 1)
             return 0;
 
-        int s = (sum + target) / 2;
-
-        vector<int> dp(s + 1, 0);
-        dp[0] = 1;
-
-        for (int num : nums) {
-            for (int j = s; j >= num; j--) {
-                dp[j] += dp[j - num];
-            }
+        if (i == 0) {
+            int count = 0;
+            if (target == nums[0]) count++;
+            if (target == -nums[0]) count++;
+            return count;
         }
 
-        return dp[s];
+        if (dp[i][target + offset] != -1)
+            return dp[i][target + offset];
+
+        int plus = f(i - 1, target - nums[i], nums, dp, offset);
+        int minus = f(i - 1, target + nums[i], nums, dp, offset);
+
+        return dp[i][target + offset] = plus + minus;
+    }
+
+    int findTargetSumWays(vector<int>& nums, int target) {
+        int n = nums.size();
+        int sum = 0;
+
+        for (int x : nums) sum += x;
+
+        // ❗ important check
+        if (abs(target) > sum) return 0;
+
+        int offset = sum;
+
+        vector<vector<int>> dp(n, vector<int>(2 * sum + 1, -1));
+
+        return f(n - 1, target, nums, dp, offset);
     }
 };
