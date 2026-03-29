@@ -38,6 +38,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## String Matching
 |  |
 | ------- |
