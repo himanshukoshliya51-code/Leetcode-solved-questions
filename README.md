@@ -23,6 +23,7 @@
 | [0044-wildcard-matching](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0125-valid-palindrome) |
@@ -84,6 +85,7 @@
 | [0062-unique-paths](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0120-triangle) |
