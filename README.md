@@ -20,6 +20,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0076-minimum-window-substring) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2050-count-good-numbers) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0062-unique-paths) |
@@ -299,6 +302,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0135-candy) |
