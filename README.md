@@ -46,6 +46,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
@@ -407,6 +409,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
