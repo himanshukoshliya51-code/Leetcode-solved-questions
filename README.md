@@ -34,6 +34,7 @@
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -95,6 +96,7 @@
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
