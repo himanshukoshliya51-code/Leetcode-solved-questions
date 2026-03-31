@@ -1,7 +1,7 @@
 class Solution {
 public:
 int f(int i , int buy , vector<int>& prices , vector<vector<int>>& dp,int fee){
-    if(i == prices.size() )return 0;
+if(i >= prices.size()) return 0;
     int profit = 0;
 
     if(dp[i][buy] != -1)return dp[i][buy];
