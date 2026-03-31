@@ -1,6 +1,7 @@
 class Solution {
 public:
   int f(int i , int buy ,int cnt , vector<int>& prices , vector<vector<vector<int>>>& dp){
+    if(cnt == 0)return 0;
     if(i == prices.size() )return 0;
     int profit = 0;
 
@@ -8,15 +9,15 @@ public:
 
     if(buy){
         int take = 0;
-        if(cnt>0){
-         take  = -prices[i]+f(i+1,0,cnt-1,prices,dp);
-        }
+       
+         take  = -prices[i]+f(i+1,0,cnt,prices,dp);
+    
         int nottake = f(i+1,1,cnt,prices,dp);
          profit = max(take,nottake);
         
     }
     else{
-        profit = max(prices[i]+f(i+1,1,cnt,prices,dp),f(i+1, 0 ,cnt ,prices, dp));
+        profit = max(prices[i]+f(i+1,1,cnt-1,prices,dp),f(i+1, 0 ,cnt ,prices, dp));
 
     }
 
