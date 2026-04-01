@@ -11,6 +11,7 @@
 | [0455-assign-cookies](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0696-count-binary-substrings) |
+| [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
@@ -37,6 +38,7 @@
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -112,6 +114,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -188,6 +191,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -241,6 +245,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -421,6 +426,7 @@
 | [0455-assign-cookies](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
