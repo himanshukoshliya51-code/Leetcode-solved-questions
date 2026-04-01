@@ -110,6 +110,7 @@
 | [0518-coin-change-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -178,6 +179,7 @@
 | [0503-next-greater-element-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0733-flood-fill) |
@@ -630,6 +632,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Iterator
 |  |
@@ -692,4 +695,8 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
