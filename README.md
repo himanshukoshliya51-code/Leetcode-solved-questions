@@ -121,6 +121,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -197,6 +198,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -430,6 +432,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
