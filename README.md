@@ -124,6 +124,7 @@
 | [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -206,6 +207,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -408,6 +410,7 @@
 | [0994-rotting-oranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
