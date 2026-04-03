@@ -30,6 +30,7 @@
 | [0125-valid-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -97,6 +98,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0213-house-robber-ii) |
