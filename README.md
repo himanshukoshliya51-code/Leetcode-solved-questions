@@ -41,6 +41,7 @@
 | [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -78,6 +79,7 @@
 | [0044-wildcard-matching](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0231-power-of-two) |
+| [1106-parsing-a-boolean-expression](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1106-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -300,6 +302,7 @@
 | [0901-online-stock-span](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
