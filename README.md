@@ -198,6 +198,7 @@
 | [0778-swim-in-rising-water](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0874-walking-robot-simulation) |
 | [0907-sum-of-subarray-minimums](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0994-rotting-oranges) |
@@ -259,6 +260,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0874-walking-robot-simulation](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -275,6 +277,7 @@
 | [0067-add-binary](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/0874-walking-robot-simulation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3379-transformed-array) |
 ## Enumeration
