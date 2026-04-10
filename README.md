@@ -229,6 +229,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Simulation
 |  |
 | ------- |
