@@ -215,6 +215,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1631-path-with-minimum-effort) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshukoshliya51-code/Leetcode-solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
